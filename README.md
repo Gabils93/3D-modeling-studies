@@ -9,12 +9,10 @@
 ## BMO | HORA DE AVENTURA 
 [Modelagem realizada atráves dos tutorais da InsightZ](https://www.youtube.com/channel/UCYXoautmTvZFuU1Lj6XLJ8Q)
 
-![](fig/bmo01.jpg)
-![](fig/bm02.jpg)
-![](fig/bmo03.png)
+![](fig/bmo%20junto.png)
 
 ## BAÚ
 [Modelagem realizada atráves dos tutorais da InsightZ](https://www.youtube.com/channel/UCYXoautmTvZFuU1Lj6XLJ8Q)
 
-![](fig/baú2.png)
+![](fig/baú.jpg)
 
