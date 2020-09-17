@@ -1,1 +1,4 @@
-# Blender_3D_modeling_studies
+
+
+# Blender | 3D modeling studies
+
